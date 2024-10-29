@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Roboto-Bold', Arial, sans-serif;
+  font-weight: normal;
+  src: url(./assets/fonts/Roboto-Bold.ttf) 
+}
+
+@font-face {
+  font-family: 'Roboto-Light', Arial, sans-serif;
+  font-weight: normal;
+  src: url(./assets/fonts/Roboto-Light.ttf) 
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  font-weight: normal;
+  src: url(./assets/fonts/Roboto-Regular.ttf)
+}
+
+@font-face {
+  font-family: 'Oswald-Light';
+  font-weight: normal;
+  src: url(./assets/fonts/Oswald-Light.ttf)
+}
