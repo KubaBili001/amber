@@ -4,7 +4,7 @@ import "./Home.css";
 const Home: React.FC = () => {
   return (
     <>
-      <div className="bg-home-bg xs:h-[50vh] sm:h-[60vh] md:h-[70vh] bg-cover" />
+      <div className="bg-home-bg xs:h-[45vh] sm:h-[50vh] md:h-[55vh] lg:h-[60vh] bg-cover" />
       <div className="bg-white w-full flex flex-col items-center pt-14 gap-14 shadow-md">
         <div className="flex flex-col items-center">
           <h1 className="font-oswald-l text-[35px] tracking-wide">

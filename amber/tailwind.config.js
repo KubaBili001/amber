@@ -5,6 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    screens: {
+      'xs': '300px',
+      'sm': '700px',
+      'md': '800px',
+      'lg': '900px',
+      'xl': '1000px',
+      '2xl': '1536px',
+     },
     fontFamily: {
       'roboto': ['Roboto-Regular'],
       'roboto-l': ['Roboto-Light'],
@@ -30,14 +38,5 @@ export default {
     }
   },
   plugins: [],
-  screens: {
-    xs: '475px',      // Extra small screens
-    sm: '680px',      // Small screens
-    md: '780px',      // Medium screens
-    lg: '1024px',     // Large screens
-    xl: '1280px',     // Extra-large screens
-    '2xl': '1536px',  // 2XL screens
-    '3xl': '1920px'   // 3XL screens
-  },
 }
 

@@ -6,34 +6,37 @@ const NavBar: React.FC = () => {
 
   return (
     <div className="w-full h-20 flex justify-center items-center bg-white shadow-md z-[100] relative">
-      <div className="w-full flex justify-around items-center font-oswald-l">
+      <div className="w-full flex justify-center gap-20 items-center font-oswald-l">
         <button
           className="text-[44px] text-grey-5 tracking-wide"
           onClick={() => navigate("/")}
         >
           AMBER.CONCEPT
         </button>
-        <nav className="flex gap-4">
-          <button
-            className={`px-2 py-1 text-[20px]`}
-            onClick={() => navigate("/body")}
-          >
-            BODY
-          </button>
-          <button
-            className={`px-2 py-1 text-[20px] `}
-            onClick={() => navigate("/face")}
-          >
-            FACE
-          </button>
-          <button
-            className={`px-2 py-1 text-[20px]`}
-            onClick={() => navigate("/spa")}
-          >
-            SPA
-          </button>
-          {/* add sections here */}
-        </nav>
+        <div className="flex gap-20">
+          <nav id="nav-sections" className="flex gap-4">
+            <button
+              className={`px-2 py-1 text-[20px]`}
+              onClick={() => navigate("/body")}
+            >
+              BODY
+            </button>
+            <button
+              className={`px-2 py-1 text-[20px] `}
+              onClick={() => navigate("/face")}
+            >
+              FACE
+            </button>
+            <button
+              className={`px-2 py-1 text-[20px]`}
+              onClick={() => navigate("/spa")}
+            >
+              SPA
+            </button>
+            {/* add sections here */}
+          </nav>
+          <div id="tools">{/* tools will go here */}</div>
+        </div>
       </div>
     </div>
   );
