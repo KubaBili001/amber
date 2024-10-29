@@ -14,7 +14,7 @@ body {
 }
 
 @font-face {
-  font-family: 'Roboto-Light', Arial, sans-serif;
+  font-family: 'Roboto-Light';
   font-weight: normal;
   src: url(./assets/fonts/Roboto-Light.ttf) 
 }
