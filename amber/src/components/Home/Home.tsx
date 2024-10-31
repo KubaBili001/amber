@@ -8,7 +8,7 @@ import InfoSection from "./InfoSection";
 const Home: React.FC = () => {
   return (
     <>
-      <div className="bg-home-bg test:h-[60vh] bg-fill bg-center" />
+      <div className="bg-home-bg h-[60vh] bg-fill bg-center" />
       <div className="bg-white w-full flex flex-col items-center pt-14 gap-14 shadow-md">
         <div className="flex flex-col items-center">
           <h1 className="font-oswald-l text-[35px] tracking-wide">

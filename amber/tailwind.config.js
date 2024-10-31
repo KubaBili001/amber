@@ -11,8 +11,7 @@ export default {
       'md': '800px',
       'lg': '900px',
       'xl': '1000px',
-      '2xl': '1536px',
-      'test': '60vw'
+      '2xl': '1300px',
      },
     fontFamily: {
       'roboto': ['Roboto-Regular'],
