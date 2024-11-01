@@ -16,6 +16,8 @@ const Product: React.FC<ProductProps> = ({ product }) => {
 
   const navigate = useNavigate();
 
+  console.log(product.primaryImage);
+
   return (
     <div
       className="flex flex-col justify-between items-center gap-5 w-[300px] bg-grey-0 p-1 rounded-lg hover:cursor-pointer"
