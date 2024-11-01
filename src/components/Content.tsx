@@ -8,7 +8,7 @@ const Content: React.FC = () => {
   return (
     <>
       <Routes>
-        <Route index element={<Home />} />
+        <Route path="amber" element={<Home />} />
         <Route path="body" element={<ProductsList data={bodyData} />} />
         {/* add additional routes when needed */}
       </Routes>
