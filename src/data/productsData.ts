@@ -1,7 +1,5 @@
 import Pic1 from '../assets/images/body/1.jpg'
 
-
-
 // Auto-generated product data
 export const bodyData = [
   {
