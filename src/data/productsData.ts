@@ -38,13 +38,12 @@ import Pic20_2 from '../assets/images/body/20_2.jpg';
 import Pic21 from '../assets/images/body/21.jpg';
 import Pic21_2 from '../assets/images/body/21_2.jpg';
 import Pic22 from '../assets/images/body/22.jpg';
+import Pic22_2 from '../assets/images/body/22_2.jpg';
 import Pic23 from '../assets/images/body/23.jpg';
 import Pic23_2 from '../assets/images/body/23_2.jpg';
 import Pic24 from '../assets/images/body/24.jpg';
 import Pic24_2 from '../assets/images/body/24_2.jpg';
 import Pic25 from '../assets/images/body/25.jpg';
-import Pic25_2 from '../assets/images/body/25_2.jpg';
-import Pic22_2 from '../assets/images/body/22_2.jpg';
 import Pic26 from '../assets/images/body/26.jpg';
 import Pic26_2 from '../assets/images/body/26_2.jpg';
 import Pic27 from '../assets/images/body/27.jpg';
@@ -228,7 +227,6 @@ export const bodyData = [
   },
   {
     "primaryImage": Pic25,
-    "secondaryImage": Pic25_2,
     "name": "After-Sun Body Lotion Amberika 200 ml",
     "content": "This lotion provides relief to sun-exposed skin and restores hydration. Directions for use: Apply generously after sun exposure. Ingredients: Aloe vera, chamomile, coconut oil.",
     "price": 580,
@@ -242,28 +240,24 @@ export const bodyData = [
   },
   {
     "primaryImage": Pic27,
-    "secondaryImage": Pic27_2,
     "name": "Purifying Body Clay Mask Amberika 200 ml",
     "content": "This clay mask purifies and detoxifies the skin for a smoother appearance. Directions for use: Apply to body and leave for 15-20 minutes. Ingredients: Kaolin clay, charcoal powder, tea tree oil.",
     "price": 700,
   },
   {
     "primaryImage": Pic28,
-    "secondaryImage": Pic28_2,
     "name": "Nourishing Body Butter Amberika 200 ml",
     "content": "Rich body butter that deeply nourishes and softens dry skin. Directions for use: Apply to clean skin, massaging gently. Ingredients: Shea butter, cocoa butter, jojoba oil.",
     "price": 820,
   },
   {
     "primaryImage": Pic29,
-    "secondaryImage": Pic29_2,
     "name": "Calming Lavender Body Lotion Amberika 200 ml",
     "content": "A calming lotion with lavender to relax and soothe the skin. Directions for use: Apply evenly to dry skin. Ingredients: Lavender essential oil, shea butter, glycerin.",
     "price": 600,
   },
   {
     "primaryImage": Pic30,
-    "secondaryImage": Pic30_2,
     "name": "Anti-Aging Body Cream Amberika 150 ml",
     "content": "Formulated with antioxidants to reduce signs of aging and improve skin texture. Directions for use: Apply daily to areas prone to dryness. Ingredients: Vitamin E, retinol, hyaluronic acid.",
     "price": 950
