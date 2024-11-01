@@ -1,7 +1,7 @@
 // Auto-generated product data
 export const bodyData = [
   {
-    "primaryImage": `${import.meta.env.BASE_URL}src/assets/images/body/1.jpg`,
+    "primaryImage": `${import.meta.env.BASE_URL}/src/assets/images/body/1.jpg`,
     "secondaryImage": "/amber/src/assets/images/body/1_2.jpg",
     "name": "Hand Cream Nourishing Bottle Amberika 100 ml",
     "content": "24 hours of moisturizing and protection. Succinic acid promotes active renewal and rejuvenation of the skin, is an excellent antioxidant. Amber oil and shea butter nourish the skin, protect it from overdrying and aggressive environmental influences. Lactic acid has a light exfoliating effect and moisturizes the skin. Olive oil softens dry skin, saturates it with vitamins. Directions for use: Apply the cream to clean skin of your hands. Ingredients: Water with Succinic Acid, Shea Butter, Lecithin, Sorbitol, Olive Oil, Allantoin, Benzyl Alcohol",
