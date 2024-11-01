@@ -1,6 +1,5 @@
 import { Modal } from "@mui/material";
 import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
 
 interface ProductProps {
   product: {
@@ -11,18 +10,6 @@ interface ProductProps {
     price: number;
   };
 }
-
-const style = {
-  position: "absolute",
-  top: "50%",
-  left: "50%",
-  transform: "translate(-50%, -50%)",
-  width: 400,
-  bgcolor: "background.paper",
-  border: "2px solid #000",
-  boxShadow: 24,
-  p: 4,
-};
 
 const Product: React.FC<ProductProps> = ({ product }) => {
   const [open, setOpen] = React.useState(false);
