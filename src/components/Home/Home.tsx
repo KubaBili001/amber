@@ -6,6 +6,8 @@ import PowderImage from "../../assets/images/home/powder.png";
 import InfoSection from "./InfoSection";
 
 const Home: React.FC = () => {
+  console.log(AcidImage);
+
   return (
     <>
       <div className="bg-home-bg h-[60vh] bg-fill bg-center" />
