@@ -47,13 +47,9 @@ import Pic25 from '../assets/images/body/25.jpg';
 import Pic26 from '../assets/images/body/26.jpg';
 import Pic26_2 from '../assets/images/body/26_2.jpg';
 import Pic27 from '../assets/images/body/27.jpg';
-import Pic27_2 from '../assets/images/body/27_2.jpg';
 import Pic28 from '../assets/images/body/28.jpg';
-import Pic28_2 from '../assets/images/body/28_2.jpg';
 import Pic29 from '../assets/images/body/29.jpg';
-import Pic29_2 from '../assets/images/body/29_2.jpg';
 import Pic30 from '../assets/images/body/30.jpg';
-import Pic30_2 from '../assets/images/body/30_2.jpg';
 import Pic31  from '../assets/images/body/31.jpg';
 import Pic31_2 from '../assets/images/body/31_2.jpg';
 
